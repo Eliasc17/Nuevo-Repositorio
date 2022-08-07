@@ -1,2 +1,2 @@
-# Nuevo-Repositorio
+# Practicas 
 Frontend Mentor
